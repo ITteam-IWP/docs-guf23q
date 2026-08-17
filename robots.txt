@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-a808rr.salamcuanwin.xyz/sitemap.xml
